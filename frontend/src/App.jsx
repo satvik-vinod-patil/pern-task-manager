@@ -14,7 +14,7 @@ export default function App() {
   return (
     <main>
       <header>
-        <h1>Task Manager</h1>
+        <h1>Task Manager1</h1>
         {loggedIn && (
           <button className="link" onClick={logout}>
             Log out
